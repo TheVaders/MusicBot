@@ -16,7 +16,7 @@ from helpers.wrappers import errors, admins_only
 @admins_only
 async def pause(client: Client, message: Message):
     tgcalls.pytgcalls.pause_stream(message.chat.id)
-    await message.reply_text("**Hêllẞø†:** ⏸ Paused.")
+    await message.reply_text("**Sangrammusicbot -** ⏸ Paused.")
 
 
 @Client.on_message(
