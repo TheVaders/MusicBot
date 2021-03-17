@@ -1,4 +1,4 @@
-<h1 align="centre">🎶 Music Bot 🎶</h1>
+<h1 align="centre">🎶 Sangram Ghangale Bot 🎶</h1>
 
 ## Requirements 📝
 
